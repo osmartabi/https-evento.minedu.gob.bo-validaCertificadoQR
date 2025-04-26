@@ -1,0 +1,1 @@
+# https-evento.minedu.gob.bo-validaCertificadoQR
